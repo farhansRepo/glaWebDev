@@ -15,7 +15,7 @@ var tomche = require('./routes/profiles/tomche'); // this routes to the files th
 var bryan = require('./routes/profiles/bryan');
 var tracy = require('./routes/profiles/tracy');
 var anguel = require('./routes/profiles/anguel');
-var anguel = require('./routes/profiles/farhan');
+var farhan = require('./routes/profiles/farhan');
 
 
 var app = express();
